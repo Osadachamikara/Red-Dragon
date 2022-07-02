@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `┏━━━━━°☛•°:❎OSADA BRO ꪶ⁩᳆⃟SL CYB⃟ER™彡 ❎:°•☚°━━━━━┓*
+global.alivemsg = `┏━━━━━°☛•°:❎OSADA BRO™彡 ❎:°•☚°━━━━━┓*
 
 ꦖBOT IS ONLINE ᳆⃟
 
