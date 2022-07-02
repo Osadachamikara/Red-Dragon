@@ -24,10 +24,7 @@ global.alivemsg = `┏━━━━━°☛•°:❎OSADA BRO ꪶ⁩᳆⃟SL CYB�
 
 ꦖBOT IS ONLINE ᳆⃟
 
-======================                                                       =❌NO SPAM
-=❌NO DDOS                                                                                                                              =❌NO TORRENT
-=❌NO OVER DOWNLOAD                                                          =❌NO MULTILOGIN
-===============
+සියලුම විධාන .menu 
 
 
 ⭕group link 1 https://chat.whatsapp.com/HGnyLWxCtIo9vOIrBrAS1O
