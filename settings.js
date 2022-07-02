@@ -20,15 +20,33 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `⃝ BOT IS ONLINE ⃝
-My name is RED DRAGON🔥
-My Creator is OSADA CHAMIKARA😎
-꧁MY ALL Whatsapp NUMBER꧂
-✮ http://wa.me//+94752088386
-✮ http://wa.me//+94776946420
-✮ http://wa.me//+94770458503
-✮ http://wa.me//+234706892050
-✮ http://wa.me//+2347086019331` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `┏━━━━━°☛•°:❎OSADA BRO ꪶ⁩᳆⃟SL CYB⃟ER™彡 ❎:°•☚°━━━━━┓*
+
+ꦖBOT IS ONLINE ᳆⃟
+
+======================                                                       =❌NO SPAM
+=❌NO DDOS                                                                                                                              =❌NO TORRENT
+=❌NO OVER DOWNLOAD                                                          =❌NO MULTILOGIN
+===============
+
+
+⭕group link 1 https://chat.whatsapp.com/HGnyLWxCtIo9vOIrBrAS1O
+
+
+⭕group link 2 https://chat.whatsapp.com/KmWb9N0x6sR1902aqyz9PF
+
+꧁My Whatsapp Number꧂
+
+http://wa.me//+94752088386
+
+http://wa.me//+94770458503
+
+http://wa.me//+94776946420
+
+http://wa.me//+2347046892050
+
+
+➳̶̶̶᭄➤🅞🅢🅐🅓🅐 🅑🅡🅞 ᴹᵞ٭͢ᴸᴵᶠᴱ⃝⃯ ` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94770458503'] //Owner number in aive msg
 global.premium = ['+94770458503'] //Owner Number info
